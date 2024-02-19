@@ -1,0 +1,36 @@
+body{
+    background: url("/imagens/fundofinal2.png") no-repeat;
+    background-size: cover;
+    width: 95vw;
+    height: 125vh;
+}
+
+a{  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    text-decoration: none;
+font-size: 18px;}
+
+.bg1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;}
+
+.bg2{font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: brown;}
+
+.bg3{color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;}
+
+.site{display: flex;
+     min-height: 100vh;
+     flex-direction: column;}
+     
+.site-content {flex-grow: 1;} 
+
+
+   
+
+
+
